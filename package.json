@@ -1,0 +1,11 @@
+{
+  "name": "simple-node-chatroom",
+  "version": "1.0.0",
+  "description": "Node Net example, simple chatroom. No Protocol support.",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Frick",
+  "license": "UNLICENSE"
+}
